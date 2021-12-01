@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="../css/style.css"/>
 </head>
 <body>
+	<?php echo ""; ?>
 <div id="main">
 		<br><br><br>
   <form action="add.php" enctype="multipart/form-data" method="POST">
