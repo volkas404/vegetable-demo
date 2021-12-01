@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="../css/style.css"/>
 </head>
 <body>
+<?php echo ""; ?>
 <div id="container">
 	<h3>Login</h3>
 	<form action="checklogin.php" method="post">
