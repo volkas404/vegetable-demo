@@ -8,6 +8,7 @@
 </head>
 
 <body>
+	<?php echo ""; ?>
 <div id="container">
 	<h3>Register</h3>
 	<form action="saveRegister.php" method="post">
